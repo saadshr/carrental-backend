@@ -4,7 +4,7 @@
     "description": "The skeleton application for the Laravel framework.",
     "require": {
         "php": "^8.1",
-        "laravel/framework": "^10.0",
+        "laravel/framework": "^11.0",
         "php-open-source-saver/jwt-auth": "^2.0"
     },
     "require-dev": {
@@ -12,7 +12,7 @@
         "laravel/pint": "^1.0",
         "laravel/sail": "^1.18",
         "mockery/mockery": "^1.4.4",
-        "nunomaduro/collision": "^7.0",
+        
         "phpunit/phpunit": "^10.1",
         "spatie/laravel-ignition": "^2.0"
     },
